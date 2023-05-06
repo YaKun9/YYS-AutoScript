@@ -1,0 +1,4 @@
+pywin32==305
+mss==7.0.1
+opencv-python==4.7.0.68
+loguru==0.6.0
