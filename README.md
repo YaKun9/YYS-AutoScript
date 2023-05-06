@@ -1,5 +1,4 @@
-# 项目已停止维护，因为做了GUI版的
-
+## 项目已停止维护，因为做了GUI版的
 # YYS-AutoScript
 
 ### 依赖环境安装
@@ -46,3 +45,7 @@ Pyinstaller --onefile --add-data "imgs/*;imgs/" --name liberate main.py
 2. 御魂单刷/业原火/日轮之陨 等功能，需要手动到挑战界面锁定好阵容之后启动
 3. 御魂司机需要手动打一局，然后默认继续邀请队友之后，回到组队页面时启动，脚本暂时不会自动邀请好友
 4. 御魂打手可以直接开启，会自动接受
+
+
+### 参考项目
+[YYS https://github.com/lisai9093/YYS](https://github.com/lisai9093/YYS)
